@@ -33,7 +33,7 @@ html {
 
 img {
     align-items: center;
-    display: block;
+    display: center;
     max-width: 100%;
 }
 
